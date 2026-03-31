@@ -1,5 +1,6 @@
 # thor-suiteMonsterEdition
 Pentest any website on 1 click.
+
 🛡️ H4CKTHOR HUB - Monster Edition
 H4CKTHOR HUB, Python və CustomTkinter kitabxanası ilə hazırlanmış, müasir interfeysə malik çoxfunksiyalı Sızma Testi (Penetration Testing) platformasıdır. Bu alət həm pasiv kəşfiyyat (recon), həm də aktiv hücum simulyasiyalarını tək bir mərkəzdən idarə etmək üçün nəzərdə tutulmuşdur.
 
