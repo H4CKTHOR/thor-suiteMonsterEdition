@@ -2,7 +2,7 @@
 Pentest any website on 1 click.
 -------------------------------
 usage: <br>
-1) chmod +x run.sh
+1)chmod +x run.sh
 <br>
 2) ./run.sh
 
