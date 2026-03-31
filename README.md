@@ -2,9 +2,9 @@
 Pentest any website on 1 click.
 -------------------------------
 usage: <br>
-1)chmod +x run.sh
+1) chmod +x run.sh
 <br>
-2)./run.sh
+2) ./run.sh
 
 <img width="1920" height="1080" alt="Screenshot_20260331_094022" src="https://github.com/user-attachments/assets/fc648f20-ab3b-43f2-99aa-9c051c24d127" />
 
