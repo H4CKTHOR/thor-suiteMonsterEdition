@@ -23,7 +23,7 @@ sleep 2
 sudo apt-get install python3-tk -y
 python3 -m venv venv
 source venv/bin/activate
-pip install customtkinter requests beautifulsoup4 urllib3 --break-system-packages
+pip install customtkinter requests beautifulsoup4 urllib3 dnspython websocket-client PyJWT cryptography --break-system-packages
 sleep 2
 clear
 sleep 2
