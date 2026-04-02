@@ -100,7 +100,7 @@ class H4ckthorHub(ctk.CTk):
             st_lbl.pack()
             setattr(self, f"{pid}_status", st_lbl)
             
-            ent = ctk.CTkEntry(frame, placeholder_text="Target URL, Domain or JWT Token...", width=700, height=40, fg_color="#0a0a0a", border_color="#00FF00", font=("Courier New", 12))
+            ent = ctk.CTkEntry(frame, placeholder_text="Target URL, Domain or IP Address...", width=700, height=40, fg_color="#0a0a0a", border_color="#00FF00", font=("Courier New", 12))
             ent.pack(pady=8)
             setattr(self, f"{pid}_ent", ent)
             
