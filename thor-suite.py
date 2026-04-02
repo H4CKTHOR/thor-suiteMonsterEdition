@@ -23,7 +23,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 class H4ckthorHub(ctk.CTk):
     def __init__(self):
         super().__init__()
-        self.title("H4CKTHOR HUB - V20 NEPTUNE EDITION")
+        self.title("H4CKTHOR HUB - FULL PENTEST SUITE MONSTER EDITION")
         self.geometry("1550x980")
         
         self.is_running = {}
